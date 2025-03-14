@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "e114d488d4c9a4b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c9bd04430be2f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5998328bc50c8a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "НПС/Серафима.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Серафима"
+            }
+          },
+          {
+            "id": "ccefdf80de09c6aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Локации/Станция Лао-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Станция Лао-16"
+            }
+          },
+          {
+            "id": "24e92e0bb5a90654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сюжет/Общий сюжет.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Общий сюжет"
+            }
+          },
+          {
+            "id": "251d0e5ec6b1306f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "НПС/Экипаж Лао-16/Ребекка Сино.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ребекка Сино"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c031eaf2a550836c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c160a534f643aa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80fbce4ffb10d2c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "79d9230807e2a155",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "cdf9beb15d878902",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ea60c5c99a3fa4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba1b9bff7f761635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a8efc892397f60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "НПС/Экипаж Лао-16/Ребекка Сино.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Ребекка Сино"
+            }
+          },
+          {
+            "id": "e823fedf7780bedc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "НПС/Экипаж Лао-16/Ребекка Сино.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Ребекка Сино"
+            }
+          },
+          {
+            "id": "461f84cbf3d57bec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "07edb7c28bdbb2a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "НПС/Экипаж Лао-16/Ребекка Сино.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Ребекка Сино"
+            }
+          },
+          {
+            "id": "efb47488865cbc0c",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "rpg-manager:RPG Manager": false
+    }
+  },
+  "active": "251d0e5ec6b1306f",
+  "lastOpenFiles": [
+    "Картинки/Pasted image 20250314143531.png",
+    "НПС/Экипаж Лао-16/Общий список.md",
+    "НПС/Экипаж Лао-16/Роджер Джонсон.md",
+    "НПС/Экипаж Лао-16/Лайя Ли.md",
+    "НПС/Экипаж Лао-16/Анна Лейк.md",
+    "Картинки/Pasted image 20250314143257.png",
+    "Картинки/Pasted image 20250314143155.png",
+    "НПС/Экипаж Лао-16/Солик Йовар.md",
+    "Картинки/Pasted image 20250314143104.png",
+    "НПС/Экипаж Лао-16/Ребекка Сино.md",
+    "НПС/Экипаж Лао-16/Оптимус Прайм.md",
+    "Картинки/Pasted image 20250314142835.png",
+    "Картинки/Pasted image 20250314142459.png",
+    "НПС/Низерис Нава.md",
+    "Сюжет/Инцидент на Лао-16.md",
+    "НПС/Экипаж Лао-16",
+    "Картинки/Pasted image 20250314140142.png",
+    "Картинки",
+    "Сюжет/Общий сюжет.md",
+    "Локации/Станция Лао-16.md",
+    "Сюжет",
+    "Сюжет.md",
+    "Картинки/forlorn_temple_of_the_demon_prince.png",
+    "Локации",
+    "НПС/Серафима.md",
+    "Персонажи игроков/Ритиса.md",
+    "Картинки/Pasted image 20250314140111.png",
+    "Персонажи игроков/GPOs.md",
+    "Картинки/Pasted image 20250314140049.png",
+    "Персонажи игроков/Шейна.md",
+    "Персонажи игроков/Весташ.md",
+    "Взаперти.md",
+    "ааа.md",
+    "Экипаж.md",
+    "НПС",
+    "Персонажи игроков",
+    "Добро пожаловать.md"
+  ]
+}
