@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "НПС/Серафима.md",
+                "file": "НПС/Экипаж Лао-16/Общий список.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Серафима"
+              "title": "Общий список"
             }
           },
           {
@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Станция Лао-16"
             }
+          },
+          {
+            "id": "6136ae14e1abdf47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пост.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пост"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4ea60c5c99a3fa4f",
@@ -185,31 +199,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Локации/Станция Лао-16.md",
+                "file": "Пост.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Станция Лао-16"
-            }
-          },
-          {
-            "id": "efb47488865cbc0c",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-options",
-              "state": {},
-              "icon": "d20",
-              "title": "RPG Manager"
+              "title": "Структура Пост"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,14 +227,17 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "251d0e5ec6b1306f",
+  "active": "6136ae14e1abdf47",
   "lastOpenFiles": [
+    "НПС/Экипаж Лао-16/Общий список.md",
+    "НПС/Серафима.md",
+    "Локации/Станция Лао-16.md",
+    "Сюжет/Общий сюжет.md",
+    "Пост.md",
     "Персонажи игроков/Шейна.md",
     "Сюжет/Инцидент на Лао-16.md",
-    "Сюжет/Общий сюжет.md",
     "НПС/Экипаж Лао-16/Ребекка Сино.md",
     "Картинки/Pasted image 20250314143531.png",
-    "НПС/Экипаж Лао-16/Общий список.md",
     "НПС/Экипаж Лао-16/Роджер Джонсон.md",
     "НПС/Экипаж Лао-16/Лайя Ли.md",
     "НПС/Экипаж Лао-16/Анна Лейк.md",
@@ -244,12 +252,10 @@
     "НПС/Экипаж Лао-16",
     "Картинки/Pasted image 20250314140142.png",
     "Картинки",
-    "Локации/Станция Лао-16.md",
     "Сюжет",
     "Сюжет.md",
     "Картинки/forlorn_temple_of_the_demon_prince.png",
     "Локации",
-    "НПС/Серафима.md",
     "Персонажи игроков/Ритиса.md",
     "Картинки/Pasted image 20250314140111.png",
     "Персонажи игроков/GPOs.md",
